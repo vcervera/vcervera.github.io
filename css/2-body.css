@@ -1,0 +1,8 @@
+.body{
+    overflow-y: hidden;
+}
+.home{
+    background-image:url(../1-assets/waterdrops.jpg);
+     background-size: cover;
+    height: 100vh;
+}

@@ -1,0 +1,12 @@
+.jumbotron {
+    color:rgb(31, 30, 30);
+    margin-top: 150px;
+    margin-bottom: 0;
+    background-color: transparent;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 85px;
+    border:5px solid white;
+   }
+.lead{
+    font-size: 35px;
+   }

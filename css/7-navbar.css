@@ -1,0 +1,10 @@
+.navbar{
+    font-family: 'Xanh Mono', monospace;
+    background-color: transparent;
+    
+    }
+.navbar a{
+    color:white;  
+    text-shadow:2px 2px rgb(31, 30, 30);
+    font-size: 20px;
+    }

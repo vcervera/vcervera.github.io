@@ -1,0 +1,31 @@
+footer{
+    text-align: center;
+    margin-top: 80px;
+    height: 100px;
+    font-family: 'Xanh Mono', monospace;
+
+}
+.button{
+   background-color:rgb(169, 197, 153);
+   border: none;
+}
+.bgfooter
+{
+    text-align: center;
+    background-image: url(../1-assets/greenpic2.jpg);
+
+}
+
+.words{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 725px;
+   
+}
+.bgfooter a{
+    color: rgb(31, 30, 30);  
+    border: 2.5px solid dimgray;
+    border-radius:5% 5% 5% 5%;
+   font-family: 'Xanh Mono', monospace;
+  }
+
